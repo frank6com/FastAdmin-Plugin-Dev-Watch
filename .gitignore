@@ -1,0 +1,7 @@
+*
+!.gitignore
+
+!plugin-dev.config.js
+!plugin-dev-watch.js
+!plugin-dev-sync.js
+!README.md
