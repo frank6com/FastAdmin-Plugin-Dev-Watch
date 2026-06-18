@@ -20,7 +20,13 @@
 }
 ```
 
-3. 运行以下命令来启动监听器：
+3. 运行以下命令安装依赖包：
+
+```bash
+npm install --save-dev chokidar fs-extra
+```
+
+4. 运行以下命令来启动监听器：
 
 ```bash
 npm run dev [插件目录名称]
