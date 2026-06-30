@@ -16,7 +16,7 @@
 
 ```json
 "scripts": {
-    "dev": "node plugin-dev-watch.js"
+    "addon:watch": "node plugin-dev-watch.js"
 }
 ```
 
